@@ -1,0 +1,12 @@
+.header {
+    align-items: center;
+    border: 1px solid #ddd;
+    display: flex;
+    height: 40px;
+    padding: 0 30px;
+    /* max-width: 1200px;
+    min-width: 800px; */
+    margin: 0 auto;
+    background-color: white;
+    justify-content: space-between;
+}
